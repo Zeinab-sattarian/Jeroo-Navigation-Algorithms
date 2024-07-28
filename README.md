@@ -16,7 +16,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your_username/jeroo-navigation.git](https://github.com/Zeinab-sattarian/jeroo-problem.git
-cd jeroo-navigation
+
 ```
 
 ## Usage
@@ -28,7 +28,7 @@ This script demonstrates pathfinding using the A* algorithm on a 10x10 grid with
 #### Running the Script
 
 ```bash
-python a_star_jeroo.py
+python jerooWithWall.py
 ```
 
 #### Code Overview
@@ -51,7 +51,7 @@ This script demonstrates pathfinding using the BFS algorithm on a 4x4 grid.
 #### Running the Script
 
 ```bash
-python bfs_jeroo.py
+python initialJeroo.py
 ```
 
 #### Code Overview
