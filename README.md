@@ -28,7 +28,7 @@ This script demonstrates pathfinding using the A* algorithm on a 10x10 grid with
 #### Running the Script
 
 ```bash
-python jerooWithWall.py
+python JerooWithWall.py
 ```
 
 #### Code Overview
@@ -100,9 +100,7 @@ Move to (8, 7)
 ...
 ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
