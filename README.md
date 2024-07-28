@@ -15,7 +15,7 @@ This repository contains two Python scripts that simulate a Jeroo navigating a g
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/jeroo-navigation.git
+git clone https://github.com/your_username/jeroo-navigation.git](https://github.com/Zeinab-sattarian/jeroo-problem.git
 cd jeroo-navigation
 ```
 
