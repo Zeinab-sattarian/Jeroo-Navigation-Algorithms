@@ -1,5 +1,6 @@
 Jeroo Navigation Algorithms
 Introduction
+
 This repository contains two Python scripts that simulate a Jeroo navigating a grid. The Jeroo must perform tasks such as picking up a flower, planting it at another location, and then moving to a final position. The first script uses the A* algorithm for pathfinding, while the second script employs the Breadth-First Search (BFS) algorithm.
 
 Prerequisites
@@ -82,8 +83,7 @@ Plant flower at (8, 9)
 Move to (8, 8)
 Move to (8, 7)
 ...
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Acknowledgments
 Developed by Zeinab Sattarian
